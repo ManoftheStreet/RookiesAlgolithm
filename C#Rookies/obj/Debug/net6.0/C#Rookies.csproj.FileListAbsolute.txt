@@ -1,0 +1,14 @@
+C:\work\cporg\C#Rookies\C#Rookies\bin\Debug\net6.0\C#Rookies.exe
+C:\work\cporg\C#Rookies\C#Rookies\bin\Debug\net6.0\C#Rookies.deps.json
+C:\work\cporg\C#Rookies\C#Rookies\bin\Debug\net6.0\C#Rookies.runtimeconfig.json
+C:\work\cporg\C#Rookies\C#Rookies\bin\Debug\net6.0\C#Rookies.dll
+C:\work\cporg\C#Rookies\C#Rookies\bin\Debug\net6.0\C#Rookies.pdb
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\C#Rookies.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\C#Rookies.AssemblyInfoInputs.cache
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\C#Rookies.AssemblyInfo.cs
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\C#Rookies.csproj.CoreCompileInputs.cache
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\C#Rookies.dll
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\refint\C#Rookies.dll
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\C#Rookies.pdb
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\C#Rookies.genruntimeconfig.cache
+C:\work\cporg\C#Rookies\C#Rookies\obj\Debug\net6.0\ref\C#Rookies.dll
