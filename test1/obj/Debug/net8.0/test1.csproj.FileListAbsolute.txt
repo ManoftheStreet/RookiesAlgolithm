@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\test1.exe
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\test1.deps.json
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\test1.runtimeconfig.json
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\test1.dll
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\test1.pdb
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.sourcelink.json
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.dll
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\refint\test1.dll
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.pdb
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\test1.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\ref\test1.dll

@@ -11,7 +11,7 @@ namespace C_Rookies
             Player player = new Player();
 
             board.initialize(25, player);
-            player.Initialize(1, 1, board.Size - 2, board.Size - 2, board);
+            player.Initialize(1, 1, board);
 
             Console.CursorVisible = false;
 

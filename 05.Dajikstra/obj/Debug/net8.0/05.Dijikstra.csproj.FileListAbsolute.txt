@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\05.Dajikstra\bin\Debug\net8.0\05.Dijikstra.exe
+C:\work\Rookies\Algolithm\05.Dajikstra\bin\Debug\net8.0\05.Dijikstra.deps.json
+C:\work\Rookies\Algolithm\05.Dajikstra\bin\Debug\net8.0\05.Dijikstra.runtimeconfig.json
+C:\work\Rookies\Algolithm\05.Dajikstra\bin\Debug\net8.0\05.Dijikstra.dll
+C:\work\Rookies\Algolithm\05.Dajikstra\bin\Debug\net8.0\05.Dijikstra.pdb
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.sourcelink.json
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.dll
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\refint\05.Dijikstra.dll
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.pdb
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\05.Dijikstra.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\05.Dajikstra\obj\Debug\net8.0\ref\05.Dijikstra.dll

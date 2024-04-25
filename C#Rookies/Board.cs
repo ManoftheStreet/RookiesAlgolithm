@@ -13,6 +13,9 @@ namespace C_Rookies
         public TileType[,] Tile { get; private set; }
         public int Size { get; private set; }
 
+        public int DestY { get; private set; }
+        public int DestX { get; private set; }
+
         Player _player;
 
         public enum TileType
@@ -32,6 +35,9 @@ namespace C_Rookies
 
             Tile = new TileType[size, size];
             Size = size;
+
+            DestY = size - 2;
+            DestX = size - 2;
 
             //GenerateByBinaryTree();
             GenerateBySideWinder();
@@ -162,6 +168,11 @@ namespace C_Rookies
                     {
                         Console.ForegroundColor = ConsoleColor.Blue;
                     }
+                    else if (y==DestY && x == DestX)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                    }
+
                     else
                     {
                         Console.ForegroundColor = GetTileColor(Tile[y, x]);

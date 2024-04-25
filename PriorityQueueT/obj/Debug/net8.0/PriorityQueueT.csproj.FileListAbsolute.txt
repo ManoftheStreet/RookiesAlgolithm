@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\PriorityQueueT\bin\Debug\net8.0\PriorityQueueT.exe
+C:\work\Rookies\Algolithm\PriorityQueueT\bin\Debug\net8.0\PriorityQueueT.deps.json
+C:\work\Rookies\Algolithm\PriorityQueueT\bin\Debug\net8.0\PriorityQueueT.runtimeconfig.json
+C:\work\Rookies\Algolithm\PriorityQueueT\bin\Debug\net8.0\PriorityQueueT.dll
+C:\work\Rookies\Algolithm\PriorityQueueT\bin\Debug\net8.0\PriorityQueueT.pdb
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.sourcelink.json
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.dll
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\refint\PriorityQueueT.dll
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.pdb
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\PriorityQueueT.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\PriorityQueueT\obj\Debug\net8.0\ref\PriorityQueueT.dll

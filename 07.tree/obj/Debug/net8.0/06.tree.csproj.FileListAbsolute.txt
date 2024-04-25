@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\07.tree\bin\Debug\net8.0\06.tree.exe
+C:\work\Rookies\Algolithm\07.tree\bin\Debug\net8.0\06.tree.deps.json
+C:\work\Rookies\Algolithm\07.tree\bin\Debug\net8.0\06.tree.runtimeconfig.json
+C:\work\Rookies\Algolithm\07.tree\bin\Debug\net8.0\06.tree.dll
+C:\work\Rookies\Algolithm\07.tree\bin\Debug\net8.0\06.tree.pdb
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.sourcelink.json
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.dll
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\refint\06.tree.dll
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.pdb
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\06.tree.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\07.tree\obj\Debug\net8.0\ref\06.tree.dll

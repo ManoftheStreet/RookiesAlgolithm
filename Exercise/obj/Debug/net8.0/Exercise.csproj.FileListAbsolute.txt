@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\Exercise\bin\Debug\net8.0\Exercise.exe
+C:\work\Rookies\Algolithm\Exercise\bin\Debug\net8.0\Exercise.deps.json
+C:\work\Rookies\Algolithm\Exercise\bin\Debug\net8.0\Exercise.runtimeconfig.json
+C:\work\Rookies\Algolithm\Exercise\bin\Debug\net8.0\Exercise.dll
+C:\work\Rookies\Algolithm\Exercise\bin\Debug\net8.0\Exercise.pdb
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.sourcelink.json
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.dll
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\refint\Exercise.dll
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.pdb
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\Exercise.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\Exercise\obj\Debug\net8.0\ref\Exercise.dll

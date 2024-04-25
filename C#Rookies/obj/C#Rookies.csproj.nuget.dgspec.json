@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\cporg\\C#Rookies\\C#Rookies\\C#Rookies.csproj": {}
+    "C:\\work\\Rookies\\Algolithm\\C#Rookies\\C#Rookies.csproj": {}
   },
   "projects": {
-    "C:\\work\\cporg\\C#Rookies\\C#Rookies\\C#Rookies.csproj": {
+    "C:\\work\\Rookies\\Algolithm\\C#Rookies\\C#Rookies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\cporg\\C#Rookies\\C#Rookies\\C#Rookies.csproj",
+        "projectUniqueName": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\C#Rookies.csproj",
         "projectName": "C#Rookies",
-        "projectPath": "C:\\work\\cporg\\C#Rookies\\C#Rookies\\C#Rookies.csproj",
-        "packagesPath": "C:\\Users\\ar06\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\cporg\\C#Rookies\\C#Rookies\\obj\\",
+        "projectPath": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\C#Rookies.csproj",
+        "packagesPath": "C:\\Users\\zhiji\\.nuget\\packages\\",
+        "outputPath": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ar06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zhiji\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

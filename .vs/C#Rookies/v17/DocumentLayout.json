@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\Rookies\\Algolithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|c:\\work\\rookies\\algolithm\\c#rookies\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|solutionrelative:c#rookies\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|c:\\work\\rookies\\algolithm\\c#rookies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|solutionrelative:c#rookies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|c:\\work\\rookies\\algolithm\\c#rookies\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|solutionrelative:c#rookies\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C47B5A-877A-4A9D-B89D-A625FD8C27C7}|07.tree\\06.tree.csproj|c:\\work\\rookies\\algolithm\\07.tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C47B5A-877A-4A9D-B89D-A625FD8C27C7}|07.tree\\06.tree.csproj|solutionrelative:07.tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|c:\\work\\rookies\\algolithm\\c#rookies\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B8D602-89A1-4F9A-964D-7446EAB6EA2D}|C#Rookies\\01.Maze.csproj|solutionrelative:c#rookies\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E60DA3A-E7A4-426C-BFB1-BF143170F45B}|PriorityQueueT\\PriorityQueueT.csproj|c:\\work\\rookies\\algolithm\\priorityqueuet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E60DA3A-E7A4-426C-BFB1-BF143170F45B}|PriorityQueueT\\PriorityQueueT.csproj|solutionrelative:priorityqueuet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C9E84E-3013-4CA5-98F5-A1EDC568C8A7}|PriorityQueue\\PriorityQueue.csproj|c:\\work\\rookies\\algolithm\\priorityqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C9E84E-3013-4CA5-98F5-A1EDC568C8A7}|PriorityQueue\\PriorityQueue.csproj|solutionrelative:priorityqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\Program.cs",
+              "RelativeDocumentMoniker": "C#Rookies\\Program.cs",
+              "ToolTip": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\Program.cs",
+              "RelativeToolTip": "C#Rookies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:36:33.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\Board.cs",
+              "RelativeDocumentMoniker": "C#Rookies\\Board.cs",
+              "ToolTip": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\Board.cs",
+              "RelativeToolTip": "C#Rookies\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:31:01.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\Rookies\\Algolithm\\07.tree\\Program.cs",
+              "RelativeDocumentMoniker": "07.tree\\Program.cs",
+              "ToolTip": "C:\\work\\Rookies\\Algolithm\\07.tree\\Program.cs",
+              "RelativeToolTip": "07.tree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:51:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\Player.cs",
+              "RelativeDocumentMoniker": "C#Rookies\\Player.cs",
+              "ToolTip": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\Player.cs",
+              "RelativeToolTip": "C#Rookies\\Player.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAAAPkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:07:29.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "C#Rookies\\PriorityQueue.cs",
+              "ToolTip": "C:\\work\\Rookies\\Algolithm\\C#Rookies\\PriorityQueue.cs",
+              "RelativeToolTip": "C#Rookies\\PriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:56:52.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\Rookies\\Algolithm\\PriorityQueueT\\Program.cs",
+              "RelativeDocumentMoniker": "PriorityQueueT\\Program.cs",
+              "ToolTip": "C:\\work\\Rookies\\Algolithm\\PriorityQueueT\\Program.cs",
+              "RelativeToolTip": "PriorityQueueT\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:57:15.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\Rookies\\Algolithm\\PriorityQueue\\Program.cs",
+              "RelativeDocumentMoniker": "PriorityQueue\\Program.cs",
+              "ToolTip": "C:\\work\\Rookies\\Algolithm\\PriorityQueue\\Program.cs",
+              "RelativeToolTip": "PriorityQueue\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:57:14.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

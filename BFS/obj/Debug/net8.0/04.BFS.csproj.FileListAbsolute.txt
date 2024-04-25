@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\BFS\bin\Debug\net8.0\04.BFS.exe
+C:\work\Rookies\Algolithm\BFS\bin\Debug\net8.0\04.BFS.deps.json
+C:\work\Rookies\Algolithm\BFS\bin\Debug\net8.0\04.BFS.runtimeconfig.json
+C:\work\Rookies\Algolithm\BFS\bin\Debug\net8.0\04.BFS.dll
+C:\work\Rookies\Algolithm\BFS\bin\Debug\net8.0\04.BFS.pdb
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.sourcelink.json
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.dll
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\refint\04.BFS.dll
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.pdb
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\04.BFS.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\BFS\obj\Debug\net8.0\ref\04.BFS.dll

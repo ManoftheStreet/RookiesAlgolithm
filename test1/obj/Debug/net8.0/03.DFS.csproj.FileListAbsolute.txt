@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\03.DFS.exe
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\03.DFS.deps.json
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\03.DFS.runtimeconfig.json
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\03.DFS.dll
+C:\work\Rookies\Algolithm\test1\bin\Debug\net8.0\03.DFS.pdb
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.sourcelink.json
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.dll
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\refint\03.DFS.dll
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.pdb
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\03.DFS.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\test1\obj\Debug\net8.0\ref\03.DFS.dll

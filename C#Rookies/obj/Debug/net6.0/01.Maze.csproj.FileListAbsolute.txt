@@ -1,0 +1,15 @@
+C:\work\Rookies\Algolithm\C#Rookies\bin\Debug\net6.0\01.Maze.exe
+C:\work\Rookies\Algolithm\C#Rookies\bin\Debug\net6.0\01.Maze.deps.json
+C:\work\Rookies\Algolithm\C#Rookies\bin\Debug\net6.0\01.Maze.runtimeconfig.json
+C:\work\Rookies\Algolithm\C#Rookies\bin\Debug\net6.0\01.Maze.dll
+C:\work\Rookies\Algolithm\C#Rookies\bin\Debug\net6.0\01.Maze.pdb
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.AssemblyInfoInputs.cache
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.AssemblyInfo.cs
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.csproj.CoreCompileInputs.cache
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.sourcelink.json
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.dll
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\refint\01.Maze.dll
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.pdb
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\01.Maze.genruntimeconfig.cache
+C:\work\Rookies\Algolithm\C#Rookies\obj\Debug\net6.0\ref\01.Maze.dll

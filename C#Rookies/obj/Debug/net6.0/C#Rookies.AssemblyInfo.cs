@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#Rookies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b436b6f84601a50e687ab1136a59917b2de7b3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#Rookies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#Rookies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
